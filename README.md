@@ -6,6 +6,7 @@ A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and
 
 [![Tic Tac Toe Screenshot](assets/Screenshot1.png)](assets/Screenshot1.png)
 [![Tic Tac Toe Screenshot](assets/Screenshot.png)](assets/Screenshot.png)
+
 ---
 
 ## 🔗 Live Demo
