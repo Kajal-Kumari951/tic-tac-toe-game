@@ -4,13 +4,13 @@ A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and
 
 ---
 
-![Game Screenshot](assets/screenshot.png)
-
+[![Tic Tac Toe Screenshot](assets/Screenshot1.png)](assets/Screenshot1.png)
+[![Tic Tac Toe Screenshot](assets/Screenshot.png)](assets/Screenshot.png)
 ---
 
 ## 🔗 Live Demo
 
-👉 [Play Now](https://your-username.github.io/tic-tac-toe-js/)
+👉 [Play Now](file:///C:/Users/acer/Desktop/JavaScript/project1/project1.html)
 
 
 ---
