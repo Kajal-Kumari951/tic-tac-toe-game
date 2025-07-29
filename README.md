@@ -6,15 +6,12 @@ A simple and interactive **Tic Tac Toe** game built using **HTML**, **CSS**, and
 
 ![Game Screenshot](assets/screenshot.png)
 
-> *(Make sure your image is stored at `assets/screenshot.png`. You can change the path if needed.)*
-
 ---
 
 ## 🔗 Live Demo
 
 👉 [Play Now](https://your-username.github.io/tic-tac-toe-js/)
 
-> *(Replace this link with your GitHub Pages live link if deployed)*
 
 ---
 
