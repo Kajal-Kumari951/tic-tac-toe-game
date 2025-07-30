@@ -5,7 +5,7 @@
 }
 
 body {
-    background-image: url("../5cce42cc73fe6f44a4a7d9a8568417b6.jpg");
+    background-image: url("assets/5cce42cc73fe6f44a4a7d9a8568417b6.jpg");
     /*background-color: #548687;*/
     text-align: center;
     background-size: cover;
@@ -40,7 +40,7 @@ body {
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
     font-size: 8vmin;
     color: #b0413e;
-    background-image: url("../wood-texture-background-11554000837h0jiijalx3.jpg");
+    background-image: url("assets/wood-texture-background-11554000837h0jiijalx3.jpg");
 }
 
 #reset-btn {
